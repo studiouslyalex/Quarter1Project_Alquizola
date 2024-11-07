@@ -1,0 +1,75 @@
+body{
+	font-family: balsamiq sans;
+}
+
+a{
+	color: #B36F67;
+	font-size: 16px;
+	font-weight: bold;
+}
+a:hover{
+	background-color: #DE685B;
+	color: #342726;
+	padding: 5px;
+}
+
+.main img{
+	max-height: 500px;
+	max-width: 500px;
+	border: solid, 4px, #4587de;
+}
+h1{
+	color: #4587de
+}
+
+.header{
+	margin: 55px;
+}
+.main{
+	display: flex;
+    flex-grow: 1; 
+    background-color: #FFFFFF;
+}
+.main-content{
+	 flex-grow: 1;
+	 max-height: 600px;
+     background-color: #FFFFFF;
+     border: solid 5px;
+	 border-right: 0px;
+	 border-left: 0px;
+	 border-color: #DE685B;
+     align-content: center;
+     padding: 20px;
+     box-sizing: border-box;
+     overflow-y: auto;
+}
+.sidebar{
+	width: 60%;
+	max-height: 600px;
+	padding: 20px;
+	box-sizing: border-box;
+	border: solid 5px;
+	border-right: 0px;
+	border-left: 0px;
+	border-color: #DE685B;
+}
+.shipping{
+	text-align: center;
+	border: 5px, solid, #4587de;
+	border-left: 0px;
+	border-right: 0px;
+	padding: 20px;
+}
+
+h1{
+	color: #DE685B;
+	text-decoration: underline;
+}
+ul{
+	color: #4587de;
+	font-size: 20px;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+

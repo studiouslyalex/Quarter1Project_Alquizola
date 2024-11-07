@@ -1,0 +1,41 @@
+body{
+	font-family: balsamiq sans;
+}
+
+a{
+	color: #B36F67;
+	font-size: 16px;
+	font-weight: bold;
+}
+a:hover{
+	background-color: #DE685B;
+	color: #342726;
+	padding: 5px;
+}
+
+.header{
+	margin: 55px;
+}
+
+.form{
+	background-color: #6788B3;
+	padding: 45px;
+}
+
+.formula{
+	align-content: center;
+	background-color: #FFFFFF;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-right: 5px;
+	padding-left: 5px;
+	max-width: auto;
+	max-height: auto;
+}
+.shipping{
+	text-align: center;
+	border: 5px, solid, #4587de;
+	border-left: 0px;
+	border-right: 0px;
+	padding: 20px;
+}
